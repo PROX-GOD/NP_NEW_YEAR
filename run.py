@@ -10,7 +10,7 @@ bit = platform.architecture()[0]
 
 if bit == '64bit':
 
-    from YEAR208064 import approval
+    from sd import approval
 
     crackfile()
 
